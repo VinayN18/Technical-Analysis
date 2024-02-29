@@ -1,7 +1,7 @@
 # Technical-Analysis
 Course Project Introduction to Financial Engineering
 
-Choose any one asset from the market. This could be stock, bond, ETF, or any other
+1. Choose any one asset from the market. This could be stock, bond, ETF, or any other
 investable asset with readily available price data.
 2. Gather the closing prices for your chosen assets over the last 3 years
 3. Pick at least 4 technical indicators of your choice out of various popular indicators
